@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+	<TaskID>17</TaskID>
+	<MonitorTime>3000</MonitorTime>
+	<IsLucene>0</IsLucene>
+	<IsApplyTemplate>1</IsApplyTemplate>
+	<IsStoreVisitedUrl>0</IsStoreVisitedUrl>
+</configuration>
